@@ -44,3 +44,36 @@ export const items = [
     "https://www.instagram.com/p/DPJyG6vD3yM/",
     "https://www.instagram.com/p/C8Up_zJMwer/"
   ];
+
+  export const photos = [
+    {
+      src: "/public/img1.png",
+      title: "A1 for Ampitheater Worship @ Chautauqua Institution",
+      description: "CL5, multi-mic panel, monitors"
+    },
+    {
+      src: "/public/img2.png",
+      title: "Stage Setup @ Chautauqua Institution",
+      description: "Lighting, line arrays"
+    },
+    {
+      src: "/public/img3.png",
+      title: "Staff Meeting @ Chautauqua Institution",
+      description: "ATEM, CAT connected PTZ, streamed via Microsoft Teams"
+    },
+    {
+        src: "/public/img4.png",
+        title: "Videography @ Iglesia Adventista Hispana de la Comunidad, Chattanooga TN",
+        description: "Sony FX30, shot for social media content of worship service"
+      },
+      {
+        src: "/public/img5.png",
+        title: "A1 for Iglesia Adventista Hispana de la Comunidad",
+        description: "SQ7, full band"
+      },
+      {
+        src: "/public/img6.png",
+        title: "A1 for Gym Masters Home Show @ Southern Adventist University",
+        description: "QL5, audio playback"
+      }
+  ];
