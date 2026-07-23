@@ -36,7 +36,7 @@
   }
 
   .logo-img {
-    height: 30px;
+    height: 60px;
     width: auto;
   }
   
@@ -98,9 +98,10 @@
     margin-top: 60px;
   }
   
-  .ig-header {
-    font-size: 1.4rem;
+  .video-header {
+    font-size: 1.8rem;
     margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
   }
   
   .ig-grid {

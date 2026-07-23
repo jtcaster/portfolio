@@ -13,6 +13,8 @@ export default function App() {
 </header>
 
       <main>
+        <div>A1 Audio Engineer, V1 Video Engineer, Camera Op, Music Producer, Playback Op, Video Editor, Social Media Manager, Playback Op, Studio Mixing / Mastering, Installation</div>
+        <h1 className="video-header">Videos</h1>
         {items.map((item) => (
           <MediaItem key={item.id} item={item} />
         ))}

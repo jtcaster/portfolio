@@ -9,7 +9,7 @@ export default function InstagramGrid({ reels }) {
 
   return (
     <section className="ig-section">
-      <h1 className="ig-header">Instagram Reels</h1>
+      <h1 className="video-header">Instagram Reels</h1>
 
       <div className="ig-grid">
         {reels.map((url, i) => (
