@@ -23,14 +23,14 @@ export const items = [
     {
       id: 4,
       title: `Kara Worship - "Tribute To The King (LIVE)"`,
-      description: "Audio Engineer - live session, assistant creative director",
+      description: "Audio Technician - live session, assistant creative director",
       type: "youtube",
       embedId: "2fioOeh16g8"
     },
     {
       id: 5,
       title: `Kara Worship - "HOLY SPIRIT (Live)"`,
-      description: "Audio Engineer - live session, assistant creative director",
+      description: "Audio Technician - live session, assistant creative director",
       type: "youtube",
       embedId: "EnxKTBjdKsU"
     },

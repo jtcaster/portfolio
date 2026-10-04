@@ -14,7 +14,7 @@ export default function App() {
 </header>
 
       <main>
-      <div>A1 Audio Engineer, V1 Video Engineer, Camera Op, Music Producer, Playback Op, Video Editor, Social Media Manager, Playback Op, Studio Mixing / Mastering, Installation</div>
+      <div>A1 Audio Technician, V1 Video Technician, Camera Op, Music Producer, Playback Op, Video Editor, Social Media Manager, Playback Op, Studio Mixing / Mastering, Installation</div>
 
   <Collapsible title="AV Work (Photos)" defaultOpen={true}>
     <PhotoColumn photos={photos} />
